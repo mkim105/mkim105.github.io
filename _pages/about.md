@@ -1,7 +1,12 @@
 ---
-title: "어바웃 테스트"
+title: "About this blog"
 permalink: /about/
 layout: single
 ---
 
-안녕하세요.
+### 카테고리 분류 현황
+
++ DataAnalytics
++ MachineLearning
++ BIM
++ Research
