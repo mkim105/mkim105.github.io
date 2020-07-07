@@ -12,8 +12,8 @@ main:
     url: /post/
   - title: "About"
     url: /about/
-  - title: "PostTest"
-    url: /_posts/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
