@@ -1,6 +1,6 @@
 ---
 title: "연구 관련"
-permalink: /categories/Research
+permalink: /categories/RESEARCH
 layout: category
 author_profile: true
 taxonomy: Research
