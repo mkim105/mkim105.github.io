@@ -9,7 +9,7 @@ main:
   - title: "Research"
     url: /PostResearch/
   - title: "Post"
-    url: /_posts/
+    url: /post/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
