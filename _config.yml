@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minguk Kim Blog"
+title                    : "Minguk Kim's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minguk Kim"
@@ -95,22 +95,22 @@ analytics:
 author:
   name             : "Minguk Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ㅎㅇ요"
-  location         : "Incheon, South Korea"
+  bio              : "공부 자료 정리"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:mkim105@hawk.iit.edu"
+      url: "mailto:mkim105@hawk.iit.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://mkim105.github.io"
+      url: "https://mkim105.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/mkim105"
+      url: "https://github.com/mkim105"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/m1nguk2"
+      url: "https://instagram.com/m1nguk2"
 
 # Site Footer
 footer:
