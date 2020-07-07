@@ -3,6 +3,7 @@ title:  "리서치 게시판 예제"
 excerpt: "TOC 기능을 활용하기"
 toc: true
 toc_sticky: true
+toc_label: "논문 목차"
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
