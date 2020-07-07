@@ -1,13 +1,13 @@
 # main links # 상단 메뉴 만들기
 main:
   - title: "Data Analytics"
-    url: /PostDataAnalytics/
+    url: /categories/DataAnalytics/
   - title: "Machine Learning"
-    url: /PostMachineLearning/
+    url: /categories/MachineLearning/
   - title: "BIM"
-    url: /_PostBIM/
+    url: /categories/BIM/
   - title: "Research"
-    url: /PostResearch/
+    url: /categories/research
   - title: "Post"
     url: /post/
   - title: "About"
