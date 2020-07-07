@@ -1,6 +1,6 @@
 ---
 title: "데이터 분석"
-permalink: /categories/DA
+permalink: /categories/DataAnalytics
 layout: category
 author_profile: true
 taxonomy: DataAnalytics
