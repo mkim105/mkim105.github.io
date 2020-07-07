@@ -5,7 +5,7 @@ main:
   - title: "Machine Learning"
     url: /PostMachineLearning/
   - title: "BIM"
-    url: /PostBIM/
+    url: /_PostBIM/
   - title: "Research"
     url: /PostResearch/
   - title: "Post"
