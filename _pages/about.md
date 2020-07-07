@@ -10,3 +10,7 @@ layout: single
 + MachineLearning
 + BIM
 + Research
+
+### [마크다운 문법](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
+
+### [내 github](https://github.com/mkim105/mkim105.github.io)
