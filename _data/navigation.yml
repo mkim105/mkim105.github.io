@@ -1,7 +1,13 @@
-# main links
+# main links # 상단 메뉴 만들기
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Data Analytics"
+    url: /PostDataAnalytics/
+  - title: "Machine Learning"
+    url: /PostMachineLearning/
+  - title: "BIM"
+    url: /PostBIM/
+  - title: "Research"
+    url: /PostResearch/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
