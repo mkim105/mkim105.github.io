@@ -10,8 +10,6 @@ main:
     url: /categories/BIM
   - title: "Research"
     url: /categories/Research
-  - title: "Posts"
-    url: /_posts/
   - title: "Categories"
     url: /categories/
   # - title: "Sample Posts"
