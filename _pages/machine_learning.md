@@ -1,6 +1,6 @@
 ---
 title: "머신러닝"
-permalink: /categories/MachineLearning
+permalink: /categories/ML
 layout: category
 author_profile: true
 taxonomy: MachineLearning
