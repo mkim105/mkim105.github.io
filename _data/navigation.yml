@@ -8,6 +8,8 @@ main:
     url: /PostBIM/
   - title: "Research"
     url: /PostResearch/
+  - title: "Post"
+    url: /_posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
