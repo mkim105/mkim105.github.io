@@ -270,3 +270,15 @@ defaults:
       comments: false
       share: true
       related: false
+      
+  # _PostDataAnalytics
+  - scope:
+      path: "/PostDataAnalytics"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true # 댓글 기능 켜기
+      share: true
+      related: true
