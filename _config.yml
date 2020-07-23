@@ -252,7 +252,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: splash # splash -> 화면 전체를 씀 , single -> 화면 1/3만 씀
       author_profile: true
       read_time: true
       comments: true
@@ -264,7 +264,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: splash # splash -> 화면 전체를 씀 , single -> 화면 1/3만 씀
       author_profile: true
       read_time: false
       comments: true
