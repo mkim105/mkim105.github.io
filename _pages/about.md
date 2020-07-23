@@ -14,3 +14,7 @@ layout: single
 ### [마크다운 문법](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
 
 ### [내 github](https://github.com/mkim105/mkim105.github.io)
+
+### [Getter&Setter, Property&Attribute 설명](https://blog.naver.com/takudaddy/221992615858/)
+
+### [Lambda 설명](https://blog.naver.com/takudaddy/221984513619/)
