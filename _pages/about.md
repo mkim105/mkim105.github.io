@@ -22,3 +22,5 @@ layout: single
 ### [Revit LookUp](https://github.com/jeremytammik/RevitLookup/releases/tag/2020.0.0.4)
 
 ### [PSO Algorithm](https://blog.naver.com/ekangeun/221368253864)
+
+### [강화학습 개념 to DQN](https://jeinalog.tistory.com/20)
