@@ -24,3 +24,5 @@ layout: single
 ### [PSO Algorithm](https://blog.naver.com/ekangeun/221368253864)
 
 ### [강화학습 개념 to DQN](https://jeinalog.tistory.com/20)
+
+### [현실에서 강화학습을 적용하기 어려운 이유(Youtube)](https://www.youtube.com/watch?v=A03TpsFjFfM)
