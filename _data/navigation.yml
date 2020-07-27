@@ -8,6 +8,8 @@ main:
     url: /categories/MachineLearning
   - title: "BIM"
     url: /categories/BIM
+  - title: "Reinforcement Learning"
+    url: /RL/
   - title: "Research"
     url: /categories/Research
   - title: "Categories"
