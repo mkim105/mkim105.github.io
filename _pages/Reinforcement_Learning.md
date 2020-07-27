@@ -1,6 +1,6 @@
 ---
 title: "About this blog"
-permalink: /about/
+permalink: /RL/
 layout: single
 toc: true
 toc_sticky: true
