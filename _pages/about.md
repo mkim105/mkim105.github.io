@@ -17,6 +17,9 @@ layout: single
 
 ### [Getter&Setter, Property&Attribute 설명](https://blog.naver.com/takudaddy/221992615858/)
 
+### [예제로 배우는 C# 프로그래밍 홈페이지](http://www.csharpstudy.com/)
+  * [C# 예외처리](http://www.csharpstudy.com/CSharp/CSharp-exception.aspx)
+
 ### [Lambda 설명](https://blog.naver.com/takudaddy/221984513619/)
 
 ### [Revit LookUp](https://github.com/jeremytammik/RevitLookup/releases/tag/2020.0.0.4)
