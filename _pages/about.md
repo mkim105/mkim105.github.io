@@ -31,3 +31,4 @@ toc_sticky: true
 ### 강화학습 관련
   * [강화학습 개념 to DQN](https://jeinalog.tistory.com/20)
   * [현실에서 강화학습을 적용하기 어려운 이유(Youtube)](https://www.youtube.com/watch?v=A03TpsFjFfM)
+  * [모두를 위한 딥러닝 강좌](http://hunkim.github.io/ml/)
