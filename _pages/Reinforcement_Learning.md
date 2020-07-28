@@ -36,7 +36,7 @@ Chapter 1: Introduction
   <->
   * model-free 방식: 환경에 대해 어떠한 가정이나 모델링도 하지 않고 단순 시행착오를 거쳐 최적의 정책을 알아내는 알고리즘
   
-#### policy: 행동 정책
+#### policy: 행동 정책 π(파이)
   * 관찰된 환경의 상태(state)를 그에 적절한 행동(action)으로 매핑하는 함수입니다. 
   * 즉, 어떤 상황에서는 어떤 행동을 하라는 가이드입니다. 정책은 단순 함수일수도 있고, 간단한 색인 함수(lookup function)일 수도 있으며, 혹은 각 행동(action)별 확률(probability)을 배정하는 확률적(stochastic) 정책일 수도 있습니다.
 
