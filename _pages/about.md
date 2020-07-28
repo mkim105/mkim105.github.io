@@ -33,6 +33,7 @@ toc_sticky: true
   * [현실에서 강화학습을 적용하기 어려운 이유(Youtube)](https://www.youtube.com/watch?v=A03TpsFjFfM)
   * [모두를 위한 딥러닝 강좌](http://hunkim.github.io/ml/)
   * [강화학습 기본 개념](https://teamdable.github.io/techblog/Reinforcement-Learning?fbclid=IwAR0AenFKEVK4HXh0iwZQuHG6wJm839DHLutiwmmu2WJHxNY83uWlwSaDTQI)
+  * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/?fbclid=IwAR3TMs3E45rDjiRoLMYW2q49ekBupRgEP_T3IOvPxIqFboEJNXEZlSpFiYc)
   
 ### 책
   * [텐서플로와 유니티 ML-Agents로 배우는 강화학습](https://github.com/reinforcement-learning-kr/Unity_ML_Agents?fbclid=IwAR2L-8d94jYkvfHe8Roq3E9zpUgiXLhX8WsvNnaanoFo-rXpMtmKTBJelXw)
