@@ -15,6 +15,7 @@ toc_sticky: true
 ### Github 관련 
   * [내 github](https://github.com/mkim105/mkim105.github.io)
   * [마크다운 문법](https://devinlife.com/howto%20github%20pages/markdown-syntax/)
+  * [Github.io에 수식 기능 추가 하기](https://m.blog.naver.com/PostView.nhn?blogId=prt1004dms&logNo=221525385428&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### C# 관련
   * [Getter&Setter, Property&Attribute 설명](https://blog.naver.com/takudaddy/221992615858/)
