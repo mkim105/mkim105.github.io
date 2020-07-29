@@ -273,3 +273,10 @@ defaults:
       related: false
       classes: wide # post 화면을 넓게 가져감. 이 line을 없애면 화면을 1/3만 씀
       
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+      
