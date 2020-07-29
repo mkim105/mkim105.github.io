@@ -27,6 +27,7 @@ use_math: true
 ### Revit 관련 
   * [Revit LookUp](https://github.com/jeremytammik/RevitLookup/releases/tag/2020.0.0.4)
   * [LOD 개념과 정의](http://practicalbim.blogspot.com/2013/03/what-is-this-thing-called-lod.html)
+  * [The BIM principle and philosophy 블로그](https://sites.google.com/site/bimprinciple/)
 
 ### 알고리즘 관련
   * [PSO Algorithm](https://blog.naver.com/ekangeun/221368253864)
