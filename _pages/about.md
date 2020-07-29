@@ -4,6 +4,7 @@ permalink: /about/
 layout: single
 toc: true
 toc_sticky: true
+use_math: true
 ---
 
 ### 카테고리 분류 현황
@@ -38,3 +39,10 @@ toc_sticky: true
   
 ### 책
   * [텐서플로와 유니티 ML-Agents로 배우는 강화학습](https://github.com/reinforcement-learning-kr/Unity_ML_Agents?fbclid=IwAR2L-8d94jYkvfHe8Roq3E9zpUgiXLhX8WsvNnaanoFo-rXpMtmKTBJelXw)
+
+### LaTex 수식 테스트
+$$
+\lim_{x\to 0}{\frac{e^x-1}{2x}}
+\overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
+\lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
+$$
