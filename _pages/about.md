@@ -23,6 +23,7 @@ use_math: true
   * [Lambda 설명](https://blog.naver.com/takudaddy/221984513619/)
   * [예제로 배우는 C# 프로그래밍 홈페이지](http://www.csharpstudy.com/)
     * [C# 예외처리](http://www.csharpstudy.com/CSharp/CSharp-exception.aspx)
+  * [C# 개념설명](https://m.blog.naver.com/PostView.nhn?blogId=oidoman&logNo=90159470319&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### Revit 관련 
   * [Revit LookUp](https://github.com/jeremytammik/RevitLookup/releases/tag/2020.0.0.4)
