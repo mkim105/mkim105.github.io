@@ -40,6 +40,7 @@ use_math: true
   * [강화학습 기본 개념](https://teamdable.github.io/techblog/Reinforcement-Learning?fbclid=IwAR0AenFKEVK4HXh0iwZQuHG6wJm839DHLutiwmmu2WJHxNY83uWlwSaDTQI)
   * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/?fbclid=IwAR3TMs3E45rDjiRoLMYW2q49ekBupRgEP_T3IOvPxIqFboEJNXEZlSpFiYc)
   * [PyTorch 문서번역 프로젝트 및 튜토리얼](https://tutorials.pytorch.kr/)
+  * [영어로 잘 설명되어 있는 DQN](https://medium.com/analytics-vidhya/building-a-powerful-dqn-in-tensorflow-2-0-explanation-tutorial-d48ea8f3177a)
   
 ### 책
   * [텐서플로와 유니티 ML-Agents로 배우는 강화학습](https://github.com/reinforcement-learning-kr/Unity_ML_Agents?fbclid=IwAR2L-8d94jYkvfHe8Roq3E9zpUgiXLhX8WsvNnaanoFo-rXpMtmKTBJelXw)
