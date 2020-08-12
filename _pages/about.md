@@ -32,6 +32,7 @@ use_math: true
 
 ### 알고리즘 관련
   * [PSO Algorithm](https://blog.naver.com/ekangeun/221368253864)
+  * [Field of View and Line of Sight in 2D](https://legends2k.github.io/2d-fov/design.html)
 
 ### 강화학습 관련
   * [강화학습 개념 to DQN](https://jeinalog.tistory.com/20)
