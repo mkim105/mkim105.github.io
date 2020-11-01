@@ -35,6 +35,8 @@ use_math: true
   * [Field of View and Line of Sight in 2D](https://legends2k.github.io/2d-fov/design.html)
 
 ### 강화학습 관련
+  * [강화학습 위키](http://wiki.hash.kr/index.php/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5#.EA.B0.9C.EC.9A.94)
+  * [스탠포드 강화학습 강의 슬라이드 설명](https://cding.tistory.com/64)
   * [SLM Lab](https://slm-lab.gitbook.io/slm-lab/)
   * [강화학습 개념 to DQN](https://jeinalog.tistory.com/20)
   * [현실에서 강화학습을 적용하기 어려운 이유(Youtube)](https://www.youtube.com/watch?v=A03TpsFjFfM)
